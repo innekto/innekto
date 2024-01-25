@@ -22,7 +22,7 @@
 <br><br><br>
 
 ## 📰 Social links
- - [https://logowiki.net/logo/linkedin-icon-2](https://www.linkedin.com/in/vlad-virchenko/)
+ - linkedin (https://www.linkedin.com/in/vlad-virchenko/)
 
 
 
