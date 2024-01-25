@@ -5,9 +5,9 @@
 
 
 ## 💡 About Me
-
+- Education : IT School GoIT (Kyiv) 2022-2023
 - 📖 I`m learning node.js, NestJS, PostgreSQL
-- Education IT School GoIT (Kyiv) 2022-2023
+
 
 
 ## 🔨 Skills
