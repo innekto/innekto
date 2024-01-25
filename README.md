@@ -1,13 +1,13 @@
 
 <p align="center"># 🏠 Hello👋, my name is Vladyslav Virchenko</p>
-### 
 
 
 
-About Me
+
+ <h1>About Me</h1>
 
 
-<h1 style="color: blue;">Education: IT School GoIT (Kyiv) 2022-2023</h1>
+<h2 style="color: blue;">Education: IT School GoIT (Kyiv) 2022-2023</h2>
 
 
 
