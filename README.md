@@ -1,5 +1,5 @@
 
-<p align="center" color:"blue"># 🏠 Hello👋, my name is Vladyslav Virchenko</p>
+<p align="center" color:"rgb(0, 0, 255)"># 🏠 Hello👋, my name is Vladyslav Virchenko</p>
 
 
 
