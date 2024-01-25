@@ -1,15 +1,15 @@
 
-<p align="center"> Hello👋, my name is Vladyslav Virchenko</p>
+<p align="center"> 🏠 Hello👋, my name is Vladyslav Virchenko</p>
 
 
 
 
-## 💡 About Me
+💡 About Me
 
 - 📖 I`m learning node.js, NestJS, PostgreSQL
 
 
-## 🔨 Skills
+🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -22,7 +22,7 @@
 <br><br><br>
 
 ## 📰 Social links
- - [LinkedIn](https://www.linkedin.com/in/vlad-virchenko/)
+ - [https://logowiki.net/logo/linkedin-icon-2](https://www.linkedin.com/in/vlad-virchenko/)
 
 
 
