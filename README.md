@@ -1,6 +1,6 @@
 
-<p align="center"># 🏠 Hello👋, my name is Vladyslav Virchenko</p>
-### 
+<p align="center"> Hello👋, my name is Vladyslav Virchenko</p>
+
 
 
 
