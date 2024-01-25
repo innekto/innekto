@@ -7,6 +7,7 @@
 ## 💡 About Me
 
 - 📖 I`m learning node.js, NestJS, PostgreSQL
+- Education IT School GoIT (Kyiv) 2022-2023
 
 
 ## 🔨 Skills
@@ -23,6 +24,10 @@
 
 ## 📰 Social links
  - [linkedin](https://www.linkedin.com/in/vlad-virchenko/)
+ - [telegram](https://t.me/virchenko_vlad)
 
+
+## 👾 GitHub widgets
+ <img src="https://github-profile-trophy.vercel.app/?username=innekto" alt="GitHub Trophy"/>
 
 
