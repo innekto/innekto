@@ -5,7 +5,8 @@
 
 
 ## 💡 About Me
-- Education : IT School GoIT (Kyiv) 2022-2023
+<h1 style="color: blue;">Education: IT School GoIT (Kyiv) 2022-2023</h1>
+
 - 📖 I`m learning node.js, NestJS, PostgreSQL
 
 
