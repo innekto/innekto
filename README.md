@@ -1,5 +1,5 @@
 
-<p align="center" color:"rgb(0, 0, 255)"># 🏠 Hello👋, my name is Vladyslav Virchenko</p>
+<p align="center" style="color: blue;"> 🏠 Hello👋, my name is Vladyslav Virchenko</p>
 
 
 
@@ -7,7 +7,7 @@
  <h1>About Me</h1>
 
 
-<h2 style="color: blue;">Education: IT School GoIT (Kyiv) 2022-2023</h2>
+<h2>Education: IT School GoIT (Kyiv) 2022-2023</h2>
 
 
 
