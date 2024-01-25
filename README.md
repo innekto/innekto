@@ -28,6 +28,6 @@
 
 
 ## 👾 GitHub widgets
- <img src="https://github-profile-trophy.vercel.app/?username=innekto" alt="GitHub Trophy"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innekto&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
 
