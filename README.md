@@ -7,7 +7,7 @@
 
  <h1>About Me</h1>
 
-<h2> I'm beginner back-end developer from Ukraine</h2>
+<h2> I'm back-end developer from Ukraine</h2>
 
 <h2>Education: IT School GoIT (Kyiv) 2022-2023</h2>
 
