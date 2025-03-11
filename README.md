@@ -13,7 +13,7 @@
 
 
 
-- 📖 I`m learning node.js, NestJS, PostgreSQL
+- 📖 I`m learning node.js, NestJS, PostgreSQL, TypeORM, MongoDB, Mongoose, Cloudinary, Puppeteer, Nginx, Cerbot
 
 
 
